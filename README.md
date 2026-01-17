@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm hyqrocodryx
 
-<!--
-**hyqrocodryx/hyqrocodryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋‍♂️ About Me
+- 🔭 개인 프로젝트를 통해 꾸준히 시도하고 개선합니다
+- 🌱 Web 개발을 공부 중입니다
+- ⚡ 자동화와 효율적인 코드에 관심이 많아요
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages**: JavaScript
+- **Frameworks**: Express.js
+- **Tools**: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Links
+- https://blog.hyqrocodryx.kr/
+- https://workbench.hyqrocodryx.kr/
